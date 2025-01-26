@@ -1,6 +1,6 @@
 # Random Numerical Simulations Around Rare Events on Yule Process
 
-I made this project under the supervision of professors Arvind Singh and Gersende Fort.
+I made this project under the supervision of professors Arvind Singh.
 
 I used variance reduction techniques that can be used in Monte Carlo methods, mainly importance sampling and splitting, to estimate probabilities of rare events. In addition, I simulated "typical" scenarios corresponding to those rare events (i.e., sampled from the conditional distribution).
 
