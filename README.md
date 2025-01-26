@@ -4,7 +4,7 @@ I made this project under the supervision of professor Arvind Singh.
 
 I used variance reduction techniques that can be used in Monte Carlo methods, mainly importance sampling and splitting, to estimate probabilities of rare events. In addition, I simulated "typical" scenarios corresponding to those rare events (i.e., sampled from the conditional distribution).
 
-The document [Proofs_Yule_process.pdf](Proofs_Yule_process.pdf) contains proofs for theoretical results about Yule processes.
+The document [Theoretical_Results.pdf](Theoretical_Results.pdf) contains proofs for theoretical results about Yule processes.
 
 You can run the notebook [YULE_PROCESS.ipynb](YULE_PROCESS.ipynb).
 
